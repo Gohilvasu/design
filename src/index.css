@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@font-face {
+    font-family: "maax";
+    src: url("../src/assets/font/Maax.ttf");
+}
+@font-face {
+    font-family: "maax-mono";
+    src: url("../src/assets/font/Maax-Mono.ttf");
+}
+@font-face {
+    font-family: "maax-bold";
+    src: url("../src/assets/font/Maax-Bold.ttf");
+}
+body{
+    font-family: "maax","maax-mono" ,"maax-bold";
+}

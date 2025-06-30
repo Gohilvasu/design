@@ -1,0 +1,9 @@
+.swiper-pagination-bullet {
+    background-color: #c4c4c4; /* gray dot */
+    opacity: 1;
+    
+  }
+  
+  .swiper-pagination-bullet-active {
+    background-color: #7e7e7e; /* darker gray for active dot */
+  }
